@@ -63,6 +63,8 @@ resetButton.addEventListener("click", function()
     //change colorDisplay to match picked color
     colorDisplay.textContent = pickedColor;
 
+    this.textContent = "New Colors"
+
     //change colors of the squares
     for (var i = 0 ; i < squares.length; i++)
     {
