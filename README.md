@@ -3,4 +3,4 @@ RGP picker color game
 
 
 
-![Project Picture](RGBRandomColorGame.JPG)
+![Project Picture](images/Readme.jpg)
